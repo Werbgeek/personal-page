@@ -36,7 +36,7 @@ body{
   display: flex;
   justify-content: space-between;
   margin-bottom: 3rem;
-  padding: 1.5rem 2rem 1.5rem 3rem;
+  padding: 0.5rem 2rem 1.5rem 3rem;
   position: fixed;
   box-shadow: 0px 5px 5px #246192;
    background: linear-gradient(to right, #2F6189, #F1F5FE);
