@@ -4,22 +4,31 @@
 
 The designs were created to the following widths:
 
-- Mobile: 375px
 - Desktop: 1440px
 
 ## Colors
+color: #333333;
+color: #5E1961;
 
-### Primary
+### Primary  /**first section*/
+color: #F1F5FE;
+color: #F0F4FF;
+/
 
-- Dark Blue: hsl(233, 26%, 24%)
-- Lime Green: hsl(136, 65%, 51%)
-- Bright Cyan: hsl(192, 70%, 51%)
+/*button*/
+color: #141C39;
+color: #C9D9DE;
+
+- color: #F8F5FF;
+color: #FFFFFF;
+color: #324881;
 
 ### Neutral
 
-- Grayish Blue: hsl(233, 8%, 62%)
-- Light Grayish Blue: hsl(220, 16%, 96%)
-- Very Light Gray: hsl(0, 0%, 98%)
+-color: #141E52;
+color: #CBD6F6;
+color: #434547;
+color: #61FFD7;
 - White: hsl(0, 0%, 100%)
 
 ## Typography
@@ -30,5 +39,5 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
+- Family: [Orbitron](https://fonts.google.com/specimen/Public+Sans)
 - Weights: 300, 400, 700
